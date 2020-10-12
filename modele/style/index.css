@@ -1,0 +1,56 @@
+@charset "utf-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 1.1;
+}
+
+.resizeContainer {
+    width: 90% !important;
+    margin: auto !important;
+}
+
+.customBackground {
+    background-color: #31ce77;
+    color: white;
+}
+
+.card-signin {
+    border: 0;
+    border-radius: 2rem;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+
+.customInput {
+    width: 100% !important;
+}
+
+.customImage {
+    width: 400px !important;
+    height: 400px !important;
+}
+
+.divProduit {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.customJumbotron {
+    margin: 0 !important;
+}
+
+.customTitleLvl1 {
+    padding-top: 10px;
+}
+
+.titleLvl1 {
+    margin-top: 30px !important;
+}
+
+.message_erreur {
+    text-align: center !important;
+    color: #ff0000 !important;
+}
+

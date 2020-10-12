@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+.linkCustom { 
+    color: black !important; 
+} 
+
+.linkNavCustom {
+    color: white !important;
+}
+
+.linkNavCustom:hover {
+    color: black !important;
+}
