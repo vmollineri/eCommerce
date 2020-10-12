@@ -1,0 +1,14 @@
+{
+    "name": "vincent/site_marchand",
+    "type": "project",
+    "authors": [
+        {
+            "name": "vmollineri",
+            "email": "vmollineri@icloud.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "spipu/html2pdf": "^5.2"
+    }
+}
